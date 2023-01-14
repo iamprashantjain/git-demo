@@ -24,6 +24,7 @@ st.subheader("IBM, Fareportal, Shriram Automall")
 st.header("Educational QUalifications")
 st.subheader("BA - Economics")
 
-
+st.header("Travelography")
+st.subheader(["Sri lanka","Andaman"])
 
 
