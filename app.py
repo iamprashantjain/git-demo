@@ -18,4 +18,12 @@ st.subheader("Travelling")
 st.subheader("Coding")
 
 
+st.header("Work Experience")
+st.subheader("IBM, Fareportal, Shriram Automall")
+
+st.header("Educational QUalifications")
+st.subheader("BA - Economics")
+
+
+
 
