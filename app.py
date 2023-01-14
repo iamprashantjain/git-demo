@@ -10,5 +10,12 @@ with col1:
 with col2:
     st.write("GitHub, Inc. is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project")
 
-    
+
+
+st.header("My Like's")
+st.subheader("Stock Trading")
+st.subheader("Travelling")
+st.subheader("Coding")
+
+
 
